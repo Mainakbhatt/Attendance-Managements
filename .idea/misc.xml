@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Lenovo/.android/Android-Attendance-App-master/app/src/main/res/drawable-xhdpi/bg_spinner.xml" value="0.131" />
+        <entry key="..\:/Users/Lenovo/.android/Android-Attendance-App-master/app/src/main/res/drawable-xhdpi/custom_button.xml" value="0.131" />
+        <entry key="..\:/Users/Lenovo/.android/Android-Attendance-App-master/app/src/main/res/drawable-xhdpi/edit_dp.xml" value="0.131" />
+        <entry key="..\:/Users/Lenovo/.android/Android-Attendance-App-master/app/src/main/res/drawable-xhdpi/edittext_bacl.xml" value="0.131" />
+        <entry key="..\:/Users/Lenovo/.android/Android-Attendance-App-master/app/src/main/res/drawable-xhdpi/ic_arrowdown.xml" value="0.131" />
+        <entry key="..\:/Users/Lenovo/.android/Android-Attendance-App-master/app/src/main/res/layout/__listview_main.xml" value="0.20199275362318841" />
+        <entry key="..\:/Users/Lenovo/.android/Android-Attendance-App-master/app/src/main/res/layout/activity_main.xml" value="0.20199275362318841" />
+        <entry key="..\:/Users/Lenovo/.android/Android-Attendance-App-master/app/src/main/res/layout/add_attandance.xml" value="0.20199275362318841" />
+        <entry key="..\:/Users/Lenovo/.android/Android-Attendance-App-master/app/src/main/res/layout/add_student_attendance.xml" value="0.20199275362318841" />
+        <entry key="..\:/Users/Lenovo/.android/Android-Attendance-App-master/app/src/main/res/layout/addfaculty.xml" value="0.20199275362318841" />
+        <entry key="..\:/Users/Lenovo/.android/Android-Attendance-App-master/app/src/main/res/layout/addstudent.xml" value="0.176" />
+        <entry key="..\:/Users/Lenovo/.android/Android-Attendance-App-master/app/src/main/res/layout/listview_main.xml" value="0.20199275362318841" />
+        <entry key="..\:/Users/Lenovo/.android/Android-Attendance-App-master/app/src/main/res/layout/login.xml" value="0.1265625" />
+        <entry key="..\:/Users/Lenovo/.android/Android-Attendance-App-master/app/src/main/res/layout/menu.xml" value="0.264" />
+        <entry key="..\:/Users/Lenovo/.android/Android-Attendance-App-master/app/src/main/res/layout/test_layout.xml" value="0.20199275362318841" />
+        <entry key="..\:/Users/Lenovo/.android/Android-Attendance-App-master/app/src/main/res/layout/test_main.xml" value="0.20199275362318841" />
+        <entry key="..\:/Users/Lenovo/.android/Android-Attendance-App-master/app/src/main/res/layout/view_attendance_list.xml" value="0.20199275362318841" />
+        <entry key="..\:/Users/Lenovo/.android/Android-Attendance-App-master/app/src/main/res/layout/view_attendance_list_per_student.xml" value="0.20199275362318841" />
+        <entry key="..\:/Users/Lenovo/.android/Android-Attendance-App-master/app/src/main/res/layout/view_faculty_list.xml" value="0.20199275362318841" />
+        <entry key="..\:/Users/Lenovo/.android/Android-Attendance-App-master/app/src/main/res/layout/view_student_list.xml" value="0.20199275362318841" />
+        <entry key="..\:/Users/Lenovo/.android/Android-Attendance-App-master/app/src/main/res/layout/viewstudent.xml" value="0.20199275362318841" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
